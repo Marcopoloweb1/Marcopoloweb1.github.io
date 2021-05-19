@@ -80,6 +80,16 @@
         font-size: 75px;
         line-height: 95px;
     }
+    .main_text .M{
+        font-size: 75px;
+        line-height: 95px; 
+    }
+
+.main_text .P{
+        font-size: 75px;
+        line-height: 95px; 
+    }
+    
     .bold_text {
         font-size: 102px;
         line-height: 40px;
