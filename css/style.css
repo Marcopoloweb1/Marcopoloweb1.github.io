@@ -669,8 +669,26 @@ ul.social_top_icon li a:hover {
 .training .training_packages_box {
     text-align: center;
     padding: 25px 40px;
-    border-right: #fff solid 1px;
+    /*border-right: #fff solid 1px;*/
 }
+
+/*barrita*/
+.barrita{
+    height: 600px;
+    width: 1px;
+    background-color: white;
+    float: right;
+    margin-top: -466px;
+}
+
+.barrita2{
+    height: 604px;
+    width: 1px;
+    background-color: white;
+    float: right;
+    margin-top: -686px;
+}
+/*fin barrita*/
 
 .training .training_packages_box h3 {
     font-size: 25px;
@@ -847,7 +865,7 @@ margin-top:29px;
 .black {
     color: #000;
     font-weight: 500;
-    margin-left: -6px;
+    margin-left: -18px;
 }
 
 .contact {
@@ -871,8 +889,22 @@ margin-top:29px;
 #map {
     height: 100%;
     min-height: 480px;
+    
 }
+/*menu de divs*/
+.menuuno{
+    text-decoration: none;
 
+}
+.menuuno .black_box:hover{
+background:white;
+
+}
+.menuuno .black_box:hover h3{
+
+color:black;
+}
+/*fin del menu */
 .padddd {
     padding: 0px;
 }
