@@ -611,6 +611,7 @@ width:auto;
     font-weight: 400;
     line-height: 30px;
     padding-top: 10px;
+    text-align: justify;
 }
 
 .about_text_box {
@@ -638,6 +639,15 @@ width:auto;
     margin-left: -35px;
     margin-top: 12px;
     font-size: 15px;
+}
+
+.objetivolista{
+    list-style: none;
+    text-align: justify;
+    margin-left: 65px;
+    margin-top: 12px;
+    font-size: 12px;
+
 }
 
 .listaaereo{
