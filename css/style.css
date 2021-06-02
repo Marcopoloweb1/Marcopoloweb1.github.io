@@ -708,6 +708,29 @@ width:auto;
     float: right;
     margin-top: -686px;
 }
+
+
+
+
+
+
+.barritaobj{
+    height: 1268px;
+    width: 1px;
+    background-color: white;
+    float: right;
+    margin-top: -574px;
+}
+
+.barritaobj2{
+
+    height: 1268px;
+    width: 1px;
+    background-color: white;
+    float: right;
+    margin-top: -847px;
+
+}
 /*fin barrita*/
 
 .training .training_packages_box h3 {
