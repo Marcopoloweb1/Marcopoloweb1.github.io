@@ -714,22 +714,21 @@ width:auto;
 
 
 
-.barritaobj{
-    height: 1268px;
+.barritaobj {
+    height: 1184px;
     width: 1px;
     background-color: white;
     float: right;
-    margin-top: -574px;
+    margin-top: -461px;
 }
 
-.barritaobj2{
 
-    height: 1268px;
+.barritaobj2 {
+    height: 1186px;
     width: 1px;
     background-color: white;
     float: right;
-    margin-top: -847px;
-
+    margin-top: -731px;
 }
 /*fin barrita*/
 

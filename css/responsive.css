@@ -104,6 +104,15 @@
     .right_header_info ul li {
         margin-left: 32px;
     }
+    .barritaobj{
+        height: 1374px;
+    width: 1px;
+    background-color: white;
+    float: right;
+    margin-top: -574px;
+    }
+
+
     .slider_section {
         min-height: inherit;
         padding-top: 128px;
