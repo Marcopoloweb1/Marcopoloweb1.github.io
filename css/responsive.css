@@ -1,4 +1,21 @@
 /*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+@keyframes aparecer{
+    0%{
+        opacity: 0;
+        transform: translateY(100px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+
+.ocultar{
+    opacity: 0;
+}
+.animar{
+    animation: aparecer 1.3s;
+}
 
 @media (min-width: 1200px) and (max-width: 1500px) {
     .right_header_info ul li {
