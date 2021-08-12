@@ -5,7 +5,7 @@ addEventListener('DOMContentLoaded',()=>{
         elementos.forEach(elemento => {
             if(elemento.isIntersecting){
                 elemento.target.classList.add('animar')
-                elemento.target.classList.remove('ocultar')
+                elemento.target.classList.remove('ocultar') 
             }
         });
     }
