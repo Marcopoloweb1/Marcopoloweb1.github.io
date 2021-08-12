@@ -2,8 +2,7 @@ window.sr = ScrollReveal();
 
 sr.reveal('.mostrando',{
 
-    duration: 3000,
-    origin
+    duration: 3000
 
 });
 
