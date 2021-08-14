@@ -57,6 +57,7 @@
 }
 
 @media (min-width: 2144px){
+    
     .about_text_box p {
         font-size: 17px;
         color: #070505;
@@ -420,4 +421,47 @@
     ul.social_top_icon li {
         padding-right: 2px;
     }
+}
+
+@media (max-width: 768px){
+    .share-box{
+   
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 500px;
+        background: #ececec;
+        border-radius: 100px;
+        text-align: center;
+        padding: 9px;
+        float: right;
+        margin-right: -243px !important;
+        margin-top: 81px;
+        box-shadow: 10px 10px 15px #c7c4c4,
+        -10px -10px 15px #ffff;
+    
+    }
+    
+}
+
+
+@media (max-width: 360px){
+    .share-box{
+   
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 500px;
+        background: #ececec;
+        border-radius: 100px;
+        text-align: center;
+        padding: 9px;
+        float: right;
+        margin-right: -243px !important;
+        margin-top: 81px;
+        box-shadow: 10px 10px 15px #c7c4c4,
+        -10px -10px 15px #ffff;
+    
+    }
+    
 }
